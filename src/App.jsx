@@ -1,4 +1,6 @@
 import './App.css';
+import React from 'react';
+import { Intro } from './UI/Page1';
 
 function App() {
   return (
@@ -8,6 +10,7 @@ function App() {
         <p>
          My Website
         </p>
+        < Intro/>
         
       </header>
     </div>
