@@ -1,1 +1,1 @@
-Creating a personal wbesite using reactjs
+Creating a personal website using reactjs
